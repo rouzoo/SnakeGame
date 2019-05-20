@@ -7,10 +7,10 @@ package snakegame;
  */
 public enum TileType {
 
-	Fruit,
+	Fruit, //fruits
 	
-	SnakeHead,
+	SnakeHead, //snake's head
 	
-	SnakeBody
+	SnakeBody //snake's body
 	
 }
